@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="todos">Мои задачи</string>
+    <string name="back">Назад</string>
+    <string name="details">Задача</string>
+    <string name="in_progress">В работе</string>
+    <string name="completed">Выполнено</string>
+    <string name="completion_label">Статус задачи «%1$s»</string>
+    <string name="loading">Загрузка задач</string>
+    <string name="error">Не удалось загрузить задачи</string>
+    <string name="retry">Повторить</string>
+    <string name="todo_missing">Задача не найдена</string>
+    <string name="empty">Список задач пуст</string>
+    <string name="summary">%1$d из %2$d выполнено</string>
+</resources>
